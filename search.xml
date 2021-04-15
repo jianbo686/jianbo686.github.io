@@ -26,8 +26,8 @@
   </entry>
   <entry>
     <title>老大别打我</title>
-    <url>/archives/undefined.html</url>
+    <url>/archives/8f8a6138.html</url>
     <content><![CDATA[<p>我是第一次来这里， 老大别打我</p>
-]]></content>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line">#include&lt;stdio.h&gt;</span><br><span class="line">int main()</span><br><span class="line">&#123;</span><br><span class="line">printf(<span class="string">&quot;hello world\n&quot;</span>);</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
 </search>
